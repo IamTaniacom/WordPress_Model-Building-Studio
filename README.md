@@ -1,2 +1,2 @@
 # WordPress Integration_Model-Building-Studio
-Website of a Model-building Studio: HTML - WordPress Integration 
+HTML - WordPress integration project. HtML & CSS Layout landed to WordPress. Uses Wordpress, HTML, CSS, Jquery, ACF Plugin. 
